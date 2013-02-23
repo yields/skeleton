@@ -1,0 +1,13 @@
+{
+  "name": "skeleton",
+  "repo": "yields/skeleton",
+  "keywords": ["skeleton", "ui", "style", "grid"],
+  "description": "sekelton's css.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "skeleton.css",
+    "layout.css",
+    "base.css"
+  ]
+}
