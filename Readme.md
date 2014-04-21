@@ -1,7 +1,6 @@
-
 # skeleton
 
-  sekelton's css.
+  skeleton's css.
 
 ## Installation
 
